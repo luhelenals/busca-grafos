@@ -59,5 +59,5 @@ python main.py
 - [Distâncias Entre as Capitais Brasileiras](https://www.goodway.com.br/distancias.htm)
 
 ## 📚 Reursos Úteis
-[VisualGo](https://visualgo.net/) (Visualização de estruturas de dados)
-[Algoritmos - Thomas Cormen](https://computerscience360.wordpress.com/wp-content/uploads/2018/02/algoritmos-teoria-e-prc3a1tica-3ed-thomas-cormen.pdf) (Livro de introdução a Algoritmos)
+- [VisualGo](https://visualgo.net/) (Visualização de estruturas de dados)
+- [Algoritmos - Thomas Cormen](https://computerscience360.wordpress.com/wp-content/uploads/2018/02/algoritmos-teoria-e-prc3a1tica-3ed-thomas-cormen.pdf) (Livro de introdução a Algoritmos)
